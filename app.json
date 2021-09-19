@@ -18,10 +18,17 @@
 
   	},
 
-  	"buildpacks": [
-      {
-      }
-  ],
-
+  	  "buildpacks": [
+    {
+      "url": "https://github.com/buitron/firefox-buildpack"
+    },
+    {
+      "url": "http://github.com/buitron/geckodriver-buildpack"
+    },
+    {
+      "url": "heroku/python"
+    },
+  ]
+	
   "stack": "heroku-20"
 }
