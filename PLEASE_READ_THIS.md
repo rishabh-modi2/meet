@@ -33,7 +33,7 @@ I'm asking to not open any other link again, because zoom very often clear the c
 
 
 10. After that, your browser profile is ready, close that profile window
-11. Head to **about:profiles** again. Click **Open Directory** on your **YeetMeet** profile ( make sure you are NOT opening the ".cache" one )
+11. Head to **about:profiles** again. Click **Open Directory** on your **meet** profile ( make sure you are NOT opening the ".cache" one )
 12. File manager will pop up, from there **select all files and folder** and copy.
 13. Now, go to YeetMeetCode/bot/Profile folder and paste the files that you just copied.
 14. Click "Remove profile" on that profile you made after copying, so you can't mess up with it again
