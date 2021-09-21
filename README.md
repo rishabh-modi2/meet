@@ -2,6 +2,8 @@ telegram meet
 
 It is a telegram bot which can be deployed to a server, heroku or on your local machine. It can attend your Google Meet and Zoom classes for you. You can also schedule meetings and it will automatically join at the given time.
 
+also read https://github.com/rishabh-modi2/meet/blob/master/PLEASE_READ_THIS.md
+
 ## Bot Commands
 
     /help - Show avaliable commands
