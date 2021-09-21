@@ -61,7 +61,7 @@ SCHEDULE    ( Set to either True or False, according to your needs )
     **Note**: Your Heroku App Name Here is the name that you gave while creating the app on Heroku.
 
 8. Add files for pushing -> `git add .`
-9. Commit Files -> `git commit -am "YeetMeet Deploy"`
+9. Commit Files -> `git commit -am "meet Deploy"`
 10. Push the code -> `git push heroku master`
 11. Turn on Worker Dyno -> `heroku ps:scale worker=1`
 
@@ -90,4 +90,4 @@ SCHEDULE    ( Set to either True or False, according to your needs )
 
     `heroku logs --tail`
 
-If you face any problem send a text on Just  YeetMeet Telegram Group.
+If you face any problem send a text on Just t.me/siriyourdad
