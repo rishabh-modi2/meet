@@ -43,7 +43,7 @@ also read https://github.com/rishabh-modi2/meet/blob/master/PLEASE_READ_THIS.md
 ## Setup Scheduler
 > If you want to use Scheduler set SCHEDULER to True in [config.py]https://github.com/rishabh-modi2/meet/blob/schedule/config.py)
 
-1. cd YeetMeet
+1. cd meet
 2. cd bot
 3. python3 [schedule.py](https://github.com/rishabh-modi2/meet/blob/schedule/bot/schedule.py)
 
@@ -71,6 +71,7 @@ To run it locally:
 10. `python3 chromium.py`
 
 ## Deploy to Heroku
+
 
 
 You would need :
